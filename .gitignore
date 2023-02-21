@@ -24,6 +24,7 @@
 */.vs/
 */.vs/*
 Chapter 3/build
+Chapter 3/RoboCat/Debug
 Chapter 3/RoboCat/build
 Chapter 4/RoboCat/build
 Chapter 6/RoboCatAction/build
@@ -39,6 +40,7 @@ Chapter 6/RoboCatAction/RoboCatClient/Release
 Chapter 6/RoboCatAction/RoboCatClient/Debug
 Chapter 6/RoboCatAction/RoboCatClient/x64
 Chapter 6/RoboCatAction/RoboCatServer/Release
+Chapter 6/RoboCatAction/RoboCatServer/Debug
 Chapter 6/RoboCatAction/RoboCatServer/build
 Chapter 6/RoboCatAction/RoboCatClient/x64
 
