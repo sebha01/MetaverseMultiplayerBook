@@ -1,0 +1,16 @@
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\YarnClient.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\YarnClient.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\Client.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\Client.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\ClientMain.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\ClientMain.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\GraphicsDriver.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\GraphicsDriver.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\HUD.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\HUD.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\InputManager.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\InputManager.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\NetworkManagerClient.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\NetworkManagerClient.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\RenderManager.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\RenderManager.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\ReplicationManagerClient.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\ReplicationManagerClient.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\RoboCatClient.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\RoboCatClient.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\SpriteComponent.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\SpriteComponent.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\Texture.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\Texture.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\TextureManager.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\TextureManager.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\MouseClient.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\MouseClient.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\RoboCatClientPCH.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\RoboCatClientPCH.obj
+Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Src\WindowManager.cpp;Y:\Documents\repos\MultiplayerBook\Chapter 8\RoboCatAction\RoboCatClient\Release\WindowManager.obj
