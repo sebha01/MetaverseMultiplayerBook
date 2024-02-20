@@ -1,0 +1,26 @@
+﻿  RoboCatServerPCH.cpp
+  YarnServer.cpp
+  ClientProxy.cpp
+  ReplicationManagerServer.cpp
+  Server.cpp
+  ServerMain.cpp
+  NetworkManagerServer.cpp
+  RoboCatServer.cpp
+  MouseServer.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1931 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RoboCatServer.vcxproj -> Y:\Documents\repos\MultiplayerBook\Chapter 6\RoboCatAction\Release\RoboCatServer.exe
+  Copying SDL DLLs...
+  Y:\Documents\repos\MultiplayerBook\Chapter 6\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\libfreetype-6.dll
+  Y:\Documents\repos\MultiplayerBook\Chapter 6\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\libogg-0.dll
+  Y:\Documents\repos\MultiplayerBook\Chapter 6\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\libpng16-16.dll
+  Y:\Documents\repos\MultiplayerBook\Chapter 6\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\libvorbis-0.dll
+  Y:\Documents\repos\MultiplayerBook\Chapter 6\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\libvorbisfile-3.dll
+  Y:\Documents\repos\MultiplayerBook\Chapter 6\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\SDL2.dll
+  Y:\Documents\repos\MultiplayerBook\Chapter 6\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\SDL2_image.dll
+  Y:\Documents\repos\MultiplayerBook\Chapter 6\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\SDL2_mixer.dll
+  Y:\Documents\repos\MultiplayerBook\Chapter 6\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\SDL2_ttf.dll
+  Y:\Documents\repos\MultiplayerBook\Chapter 6\RoboCatAction\RoboCatServer\\..\SDL\lib\win\x86\zlib1.dll
+  10 File(s) copied
